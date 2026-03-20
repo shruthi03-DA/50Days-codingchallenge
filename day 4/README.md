@@ -32,27 +32,31 @@ Slicers
 Data Cleaning & Formatting
 📊 Key Features
 KPI Metrics:
-
 Total Loan Amount
 Total Payments Received
 Total Profit/Loss
 Average Interest Rate
 Total Number of Loans
-Interactive Dashboard:
 
+
+Interactive Dashboard:
 Filters using slicers
 Dynamic charts and visuals
-Visualizations:
 
+Visualizations:
 Loan Status Distribution (Pie Chart)
 Loan Grade Analysis (Bar Chart)
 Monthly Trends (Line Chart)
 Loan Purpose Analysis
+
+
 📈 Insights & Findings
 Higher interest rates generally lead to increased profitability.
 Loans marked as "Fully Paid" contribute positively to overall performance.
 "Charged Off" and late loans indicate higher risk.
 Loan grades help in understanding risk segmentation.
 Loan distribution varies across different states and purposes.
+
+
 🚀 Conclusion
 This project demonstrates how Excel can be effectively used to analyze financial data and build an interactive dashboard. It provides valuable insights into loan performance and supports better financial decision-making.
