@@ -23,13 +23,15 @@ LTV (Loan-to-Value Ratio)
 Total Payments Received
 Profit/Loss
 State and Loan Duration
+
 ⚙️ Tools Used
 Microsoft Excel
-
 Pivot Tables
 Pivot Charts
 Slicers
 Data Cleaning & Formatting
+
+
 📊 Key Features
 KPI Metrics:
 Total Loan Amount
