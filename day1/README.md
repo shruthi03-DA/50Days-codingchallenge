@@ -32,4 +32,5 @@ Key Insights
 Some regions generate significantly higher revenue compared to others.
 A few product categories contribute the majority of total sales.
 The top 5 products account for a large share of the total revenue.
-Category[day1_excel_challenge (1).xlsx](https://github.com/user-attachments/files/26135392/day1_excel_challenge.1.xlsx)
+
+(https://github.com/user-attachments/files/26135392/day1_excel_challenge.1.xlsx)
