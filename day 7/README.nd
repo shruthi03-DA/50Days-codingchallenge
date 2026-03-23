@@ -1,0 +1,70 @@
+# Project Overview
+This project focuses on building a Quality Control Dashboard using Power BI to monitor product defects and improve production quality.
+
+The dashboard helps identify:
+
+Overall defect rate
+Most defective products
+Defect trends over time
+Batch-wise quality performance
+
+🔹 Dataset Used
+The project uses two datasets:
+Production Data
+ProductID
+BatchID
+Date
+Status (Pass / Fail)
+Batch Data
+
+BatchID
+ProductionLine
+InspectorName
+Data Modeling
+
+# Established relationship between:
+
+Production[BatchID] → Batches[BatchID]
+Relationship Type: Many-to-One
+
+Key KPIs (DAX Measures)
+Total Items
+Defective Items
+Defect Rate (%)
+Daily Defect Rate
+🔹 Dashboard Features
+KPI Card
+Displays overall defect rate
+Top 5 Defective Products
+Clustered bar chart showing most problematic products
+📈 Defect Trend Over Time
+Line chart showing daily defect rate trend
+📋 Batch Analysis
+Matrix showing defects by:
+
+Production Line
+Inspector Name
+🎯 Slicer
+Date slicer for dynamic filtering
+
+🔹 Tools Used
+Power BI
+DAX (Data Analysis Expressions)
+
+Key Insights
+Identified high defect products
+Tracked defect trends over time
+Evaluated inspector and production line performance
+
+How to Use
+Open the .pbix file in Power BI
+Use the Date slicer to filter data
+Analyze charts and KPIs for insights
+
+Conclusion
+This dashboard provides a clear and interactive way to monitor quality issues and supports better decision-making in manufacturing processes.
+
+Future Improvements
+Add advanced filters
+Include predictive analysis
+Improve UI design
