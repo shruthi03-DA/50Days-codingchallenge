@@ -5,10 +5,12 @@
 # 📥 2. Data Preparation 
 “We started by importing the dataset into Power BI and performed data cleaning to ensure accuracy.”
 Key Steps:
+
 Ensured correct data types (numeric)
+
 Checked for duplicates
+
 Standardized column names
-👉 This ensures reliable insights
 
 # 🧮 3. Data Modeling & Measures
 “Next, we created key measures using DAX to analyze the data.”
