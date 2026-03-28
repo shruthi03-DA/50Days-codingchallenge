@@ -1,8 +1,8 @@
-🎯 1. Objective 
+# 🎯 1. Objective 
 
 “The goal of this analysis is to understand the relationship between average sleep hours and average work hours, and identify whether individuals maintain a healthy balance between rest and work.”
 
-📥 2. Data Preparation (What you did first)
+# 📥 2. Data Preparation (What you did first)
 “We started by importing the dataset into Power BI and performed data cleaning to ensure accuracy.”
 Key Steps:
 Ensured correct data types (numeric)
@@ -10,7 +10,7 @@ Checked for duplicates
 Standardized column names
 👉 This ensures reliable insights
 
-🧮 3. Data Modeling & Measures
+# 🧮 3. Data Modeling & Measures
 “Next, we created key measures using DAX to analyze the data.”
 ✔ Measures Created:
 Average Sleep Hours
@@ -22,7 +22,7 @@ Sleep to Work Ratio = DIVIDE([Avg Sleep Hours], [Avg Work Hours])
 Difference
 Sleep Work Difference = [Avg Sleep Hours] - [Avg Work Hours]
 
-📊 4. Dashboard & Visualizations
+# 📊 4. Dashboard & Visualizations
 “We designed an interactive dashboard to compare and analyze sleep and work patterns.”
 
 ✔ Visuals Used:
@@ -35,9 +35,8 @@ Comparison of Sleep vs Work Hours
 Sleep & Work Hours over time
 🔹 Slicers (Filters)
 Stress Level / department
-👉 Enables interactive analysis
 
-🔍 5. Key Insights (This is very important for client)
+# 🔍 5. Key Insights (This is very important for client)
 You can explain like this 👇
 ✅ Insight 1: Work Dominates Sleep
 “We observed that average work hours are higher than sleep hours for most individuals, indicating potential imbalance.”
@@ -52,5 +51,5 @@ You can explain like this 👇
 (If slicers used)
 “Certain groups (e.g., stress level, department) show more imbalance, which can help target interventions.”
 
-📝 6. Final Conclusion
+# 📝 6. Final Conclusion
 “In conclusion, the analysis clearly highlights a gap between sleep and work hours. Most individuals are not getting adequate rest compared to their workload. By addressing this imbalance through better policies and awareness, organizations can improve both employee well-being and overall productivity.”
