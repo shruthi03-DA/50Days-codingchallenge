@@ -2,7 +2,7 @@
 
 “The goal of this analysis is to understand the relationship between average sleep hours and average work hours, and identify whether individuals maintain a healthy balance between rest and work.”
 
-# 📥 2. Data Preparation (What you did first)
+# 📥 2. Data Preparation 
 “We started by importing the dataset into Power BI and performed data cleaning to ensure accuracy.”
 Key Steps:
 Ensured correct data types (numeric)
