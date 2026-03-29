@@ -43,6 +43,7 @@ Extracted distinct cities
 👉 Market coverage
 
 🔍 4. Key Insights 
+
 ✅ Insight 1:
 Electronics category dominates high-value sales
 
