@@ -11,35 +11,6 @@ CASE
 HAVING
 Dataset Details
 
-# Table: customers
-Column Name	Data Type	Description
-customer_id	INT	Unique customer ID
-customer_name	VARCHAR(50)	Customer name
-city	VARCHAR(50)	Customer city
-age	INT	Customer age
-total_spent	DECIMAL(10,2)	Total money spent
-number_of_orders	INT	Total orders placed
-Table Creation
-CREATE TABLE customers (
-    customer_id INT,
-    customer_name VARCHAR(50),
-    city VARCHAR(50),
-    age INT,
-    total_spent DECIMAL(10,2),
-    number_of_orders INT
-);
-
-# Sample Data
-INSERT INTO customers VALUES
-(1, 'Amit', 'Bangalore', 25, 12000, 5),
-(2, 'Neha', 'Mumbai', 30, 45000, 12),
-(3, 'Raj', 'Delhi', 22, 8000, 3),
-(4, 'Sneha', 'Bangalore', 28, 60000, 15),
-(5, 'Karan', 'Mumbai', 35, 20000, 7),
-(6, 'Pooja', 'Delhi', 27, 15000, 6),
-(7, 'Arjun', 'Bangalore', 40, 70000, 20),
-(8, 'Meera', 'Mumbai', 23, 5000, 2);
-
 # Key SQL Queries
 1. Filter Customers
 SELECT * FROM customers WHERE city = 'Bangalore';
