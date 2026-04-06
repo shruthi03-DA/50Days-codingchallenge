@@ -1,7 +1,7 @@
 # Introduction
 In the rolling hills of rural India, a group of dedicated farmers work tirelessly to bring fresh produce to our tables. Meet Ravi, Sita, Arjun, and their fellow farmers, each tending to their plots of land with care and precision. Let's dive into their world and uncover insights from their farming practices.The Data
 We've collected data on 20 farmers, their plots, yields, and irrigation logs. Now, let's analyze the numbers.Top Performers
-# 1)Which plots yield the most? 🤔sqlSELECT p.plot_name, p.crop_type, AVG(y.yield_kg) AS average_yield_kg
+# 1)Which plots yield the most? 
 Result: The top 3 plots are 'River Side' (Rice), 'Rain Field' (Rice), and 'Silver Field' (Rice).Water Usage
 # 2)Who's using the most water? 
 Result: 'Silver Field' (Rice) and 'Rain Field' (Rice) top the list.Weather Impact
