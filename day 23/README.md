@@ -1,4 +1,4 @@
-# 1. Introduction (Business Context)
+# 1. Introduction 
 
 “We received raw complaint data from a ride-booking system where each record contains ride ID, driver name, issue type, and location.”
 “However, the data is unstructured and inconsistent — making it difficult to analyze directly.”
