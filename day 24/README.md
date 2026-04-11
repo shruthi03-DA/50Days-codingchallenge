@@ -10,10 +10,15 @@ Each ride is stored as a tuple:
 # Using Python data structures and analytical logic, the following tasks were performed:
 
 Tasks Completed
+
 Count total number of rides
+
 Extract rides from Bangalore
+
 Calculate total revenue generated from Bangalore rides
+
 Identify the highest-rated driver
+
 Compute average rating per city
 
 # Skills Practiced
