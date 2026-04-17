@@ -1,4 +1,4 @@
-Introduction
+## Introduction
 
 “The objective of this project is to analyze student performance data using Python dictionaries. 
 The goal is to calculate key metrics such as total marks, average scores, identify top performers, 
