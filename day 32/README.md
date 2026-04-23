@@ -25,5 +25,5 @@ print("Sum:", total)
 
 ## 5. Password Retry System
 Problem: Allow user 3 attempts to enter correct password 
-Concept Used: Loop + Condition + Counter correct_password = "admin123" attempts = 0
+Concept Used: Loop + Condition + Counter correct_password = "shruthi123" attempts = 0
 while attempts < 3: password = input("Enter password: ")
