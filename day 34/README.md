@@ -55,7 +55,3 @@ Sort products by price.
 sorted_prices = sorted(prices.items(), key=lambda x: x[1])
 
 print(sorted_prices) ✅ Output [('banana', 20), ('orange', 30), ('apple', 50)]
-
-🚀 Key Takeaways ✅ set() helps remove duplicates efficiently ✅ dict.get() is useful for counting patterns ✅ max() with key finds values-based results ✅ lambda enables custom sorting logic ✅ Built-in functions make code clean & efficient
-
-📅 Challenge Progress ✅ Day 30 – Conditional Statements ✅ Day 31 – Expense Analyzer ✅ Day 32 – Loops ✅ Day 33 – Reverse Number ✅ Day 34 – Built-in Functions
