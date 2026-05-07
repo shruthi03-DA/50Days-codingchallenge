@@ -53,9 +53,9 @@ Helps in quality control monitoring
 # ✅ Task 6: Running Total Revenue
 Used window function to track cumulative revenue
 Useful for growth analysis
-✅ Task 7: Best Category by Profit Margin
+# ✅ Task 7: Best Category by Profit Margin
 Identified category with highest profitability ratio
-✅ Task 8: Unsold Inventory
+# ✅ Task 8: Unsold Inventory
 Found products where production exceeded sales
 Helps in inventory management
 
